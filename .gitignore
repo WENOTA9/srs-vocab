@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+.venv/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+
+# SQLite databases (包含個人學習進度，不應上傳)
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+
+# Flet 打包產物（大檔案，用 Releases 上傳）
+*.app/
+*.exe
+*.apk
+*.ipa
+*.aab
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 日誌
+*.log
+
+# 快取
+.cache/
