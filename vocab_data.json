@@ -1,0 +1,512 @@
+{
+  "categories": [
+    {
+      "name": "國中常用",
+      "description": "國中教育階段基礎英文單字",
+      "words": [
+        {
+          "english": "apple",
+          "chinese": "蘋果",
+          "part_of_speech": "n.",
+          "example": "I eat an apple every day.",
+          "phonetic": "/ˈæpl/"
+        },
+        {
+          "english": "book",
+          "chinese": "書",
+          "part_of_speech": "n.",
+          "example": "She reads a book.",
+          "phonetic": "/bʊk/"
+        },
+        {
+          "english": "cat",
+          "chinese": "貓",
+          "part_of_speech": "n.",
+          "example": "The cat is sleeping.",
+          "phonetic": "/kæt/"
+        },
+        {
+          "english": "dog",
+          "chinese": "狗",
+          "part_of_speech": "n.",
+          "example": "I have a dog.",
+          "phonetic": "/dɔːɡ/"
+        },
+        {
+          "english": "eat",
+          "chinese": "吃",
+          "part_of_speech": "v.",
+          "example": "We eat lunch at noon.",
+          "phonetic": "/iːt/"
+        },
+        {
+          "english": "friend",
+          "chinese": "朋友",
+          "part_of_speech": "n.",
+          "example": "She is my best friend.",
+          "phonetic": "/frɛnd/"
+        },
+        {
+          "english": "good",
+          "chinese": "好的",
+          "part_of_speech": "adj.",
+          "example": "This is a good idea.",
+          "phonetic": "/ɡʊd/"
+        },
+        {
+          "english": "happy",
+          "chinese": "快樂的",
+          "part_of_speech": "adj.",
+          "example": "I am very happy today.",
+          "phonetic": "/ˈhæpi/"
+        },
+        {
+          "english": "important",
+          "chinese": "重要的",
+          "part_of_speech": "adj.",
+          "example": "Health is important.",
+          "phonetic": "/ɪmˈpɔːrtənt/"
+        },
+        {
+          "english": "jump",
+          "chinese": "跳",
+          "part_of_speech": "v.",
+          "example": "The boy can jump high.",
+          "phonetic": "/dʒʌmp/"
+        },
+        {
+          "english": "kind",
+          "chinese": "善良的；種類",
+          "part_of_speech": "adj./n.",
+          "example": "She is a kind person.",
+          "phonetic": "/kaɪnd/"
+        },
+        {
+          "english": "learn",
+          "chinese": "學習",
+          "part_of_speech": "v.",
+          "example": "I want to learn English.",
+          "phonetic": "/lɜːrn/"
+        },
+        {
+          "english": "morning",
+          "chinese": "早晨",
+          "part_of_speech": "n.",
+          "example": "Good morning!",
+          "phonetic": "/ˈmɔːrnɪŋ/"
+        },
+        {
+          "english": "night",
+          "chinese": "夜晚",
+          "part_of_speech": "n.",
+          "example": "Good night!",
+          "phonetic": "/naɪt/"
+        },
+        {
+          "english": "open",
+          "chinese": "打開",
+          "part_of_speech": "v.",
+          "example": "Please open the door.",
+          "phonetic": "/ˈoʊpən/"
+        },
+        {
+          "english": "play",
+          "chinese": "玩；播放",
+          "part_of_speech": "v.",
+          "example": "Let's play basketball.",
+          "phonetic": "/pleɪ/"
+        },
+        {
+          "english": "question",
+          "chinese": "問題",
+          "part_of_speech": "n.",
+          "example": "Do you have a question?",
+          "phonetic": "/ˈkwɛstʃən/"
+        },
+        {
+          "english": "run",
+          "chinese": "跑",
+          "part_of_speech": "v.",
+          "example": "He runs every morning.",
+          "phonetic": "/rʌn/"
+        },
+        {
+          "english": "school",
+          "chinese": "學校",
+          "part_of_speech": "n.",
+          "example": "I go to school by bus.",
+          "phonetic": "/skuːl/"
+        },
+        {
+          "english": "teacher",
+          "chinese": "老師",
+          "part_of_speech": "n.",
+          "example": "My teacher is very nice.",
+          "phonetic": "/ˈtiːtʃər/"
+        },
+        {
+          "english": "understand",
+          "chinese": "理解",
+          "part_of_speech": "v.",
+          "example": "I understand the lesson.",
+          "phonetic": "/ˌʌndərˈstænd/"
+        },
+        {
+          "english": "visit",
+          "chinese": "拜訪",
+          "part_of_speech": "v.",
+          "example": "We visit our grandma.",
+          "phonetic": "/ˈvɪzɪt/"
+        },
+        {
+          "english": "water",
+          "chinese": "水",
+          "part_of_speech": "n.",
+          "example": "Drink more water.",
+          "phonetic": "/ˈwɔːtər/"
+        },
+        {
+          "english": "young",
+          "chinese": "年輕的",
+          "part_of_speech": "adj.",
+          "example": "She looks young.",
+          "phonetic": "/jʌŋ/"
+        },
+        {
+          "english": "zero",
+          "chinese": "零",
+          "part_of_speech": "n.",
+          "example": "The score is zero.",
+          "phonetic": "/ˈzɪroʊ/"
+        }
+      ]
+    },
+    {
+      "name": "高中常用",
+      "description": "高中教育階段進階英文單字",
+      "words": [
+        {
+          "english": "abandon",
+          "chinese": "放棄；遺棄",
+          "part_of_speech": "v.",
+          "example": "Never abandon your dreams.",
+          "phonetic": "/əˈbændən/"
+        },
+        {
+          "english": "benefit",
+          "chinese": "利益；好處",
+          "part_of_speech": "n./v.",
+          "example": "Exercise benefits your health.",
+          "phonetic": "/ˈbɛnɪfɪt/"
+        },
+        {
+          "english": "challenge",
+          "chinese": "挑戰",
+          "part_of_speech": "n./v.",
+          "example": "This is a big challenge.",
+          "phonetic": "/ˈtʃælɪndʒ/"
+        },
+        {
+          "english": "demonstrate",
+          "chinese": "展示；證明",
+          "part_of_speech": "v.",
+          "example": "She demonstrated the technique.",
+          "phonetic": "/ˈdɛmənˌstreɪt/"
+        },
+        {
+          "english": "efficient",
+          "chinese": "有效率的",
+          "part_of_speech": "adj.",
+          "example": "This method is very efficient.",
+          "phonetic": "/ɪˈfɪʃənt/"
+        },
+        {
+          "english": "fundamental",
+          "chinese": "基本的；根本的",
+          "part_of_speech": "adj.",
+          "example": "This is a fundamental concept.",
+          "phonetic": "/ˌfʌndəˈmɛntl/"
+        },
+        {
+          "english": "generate",
+          "chinese": "產生；生成",
+          "part_of_speech": "v.",
+          "example": "Solar panels generate electricity.",
+          "phonetic": "/ˈdʒɛnəˌreɪt/"
+        },
+        {
+          "english": "hypothesis",
+          "chinese": "假說；假設",
+          "part_of_speech": "n.",
+          "example": "We need to test the hypothesis.",
+          "phonetic": "/haɪˈpɑːθɪsɪs/"
+        },
+        {
+          "english": "investigate",
+          "chinese": "調查；研究",
+          "part_of_speech": "v.",
+          "example": "Police will investigate the case.",
+          "phonetic": "/ɪnˈvɛstɪˌɡeɪt/"
+        },
+        {
+          "english": "justify",
+          "chinese": "證明…正當",
+          "part_of_speech": "v.",
+          "example": "How do you justify your decision?",
+          "phonetic": "/ˈdʒʌstɪˌfaɪ/"
+        },
+        {
+          "english": "knowledge",
+          "chinese": "知識",
+          "part_of_speech": "n.",
+          "example": "Knowledge is power.",
+          "phonetic": "/ˈnɑːlɪdʒ/"
+        },
+        {
+          "english": "literature",
+          "chinese": "文學",
+          "part_of_speech": "n.",
+          "example": "She studies English literature.",
+          "phonetic": "/ˈlɪtərətʃər/"
+        },
+        {
+          "english": "maintain",
+          "chinese": "維持；保養",
+          "part_of_speech": "v.",
+          "example": "We must maintain good health.",
+          "phonetic": "/meɪnˈteɪn/"
+        },
+        {
+          "english": "negotiate",
+          "chinese": "協商；談判",
+          "part_of_speech": "v.",
+          "example": "They negotiated a deal.",
+          "phonetic": "/nɪˈɡoʊʃiˌeɪt/"
+        },
+        {
+          "english": "obvious",
+          "chinese": "明顯的",
+          "part_of_speech": "adj.",
+          "example": "The answer is obvious.",
+          "phonetic": "/ˈɑːbviəs/"
+        },
+        {
+          "english": "participate",
+          "chinese": "參加；參與",
+          "part_of_speech": "v.",
+          "example": "Everyone should participate.",
+          "phonetic": "/pɑːrˈtɪsɪˌpeɪt/"
+        },
+        {
+          "english": "relevant",
+          "chinese": "相關的",
+          "part_of_speech": "adj.",
+          "example": "Is this information relevant?",
+          "phonetic": "/ˈrɛlɪvənt/"
+        },
+        {
+          "english": "strategy",
+          "chinese": "策略",
+          "part_of_speech": "n.",
+          "example": "We need a new strategy.",
+          "phonetic": "/ˈstrætɪdʒi/"
+        },
+        {
+          "english": "temporary",
+          "chinese": "暫時的",
+          "part_of_speech": "adj.",
+          "example": "This is a temporary solution.",
+          "phonetic": "/ˈtɛmpəˌrɛri/"
+        },
+        {
+          "english": "ultimate",
+          "chinese": "最終的；極致的",
+          "part_of_speech": "adj.",
+          "example": "What is the ultimate goal?",
+          "phonetic": "/ˈʌltɪmɪt/"
+        },
+        {
+          "english": "vulnerable",
+          "chinese": "脆弱的；易受攻擊的",
+          "part_of_speech": "adj.",
+          "example": "Children are vulnerable.",
+          "phonetic": "/ˈvʌlnərəbl/"
+        },
+        {
+          "english": "widespread",
+          "chinese": "廣泛的",
+          "part_of_speech": "adj.",
+          "example": "The problem is widespread.",
+          "phonetic": "/ˈwaɪdsprɛd/"
+        },
+        {
+          "english": "phenomenon",
+          "chinese": "現象",
+          "part_of_speech": "n.",
+          "example": "This is a rare phenomenon.",
+          "phonetic": "/fɪˈnɑːmɪnɑːn/"
+        },
+        {
+          "english": "perspective",
+          "chinese": "觀點；角度",
+          "part_of_speech": "n.",
+          "example": "Let's see from a different perspective.",
+          "phonetic": "/pərˈspɛktɪv/"
+        },
+        {
+          "english": "significant",
+          "chinese": "重大的；有意義的",
+          "part_of_speech": "adj.",
+          "example": "This is a significant discovery.",
+          "phonetic": "/sɪɡˈnɪfɪkənt/"
+        }
+      ]
+    },
+    {
+      "name": "高職常用",
+      "description": "高職教育階段實用英文單字",
+      "words": [
+        {
+          "english": "application",
+          "chinese": "應用；申請",
+          "part_of_speech": "n.",
+          "example": "Submit your application online.",
+          "phonetic": "/ˌæplɪˈkeɪʃən/"
+        },
+        {
+          "english": "budget",
+          "chinese": "預算",
+          "part_of_speech": "n.",
+          "example": "We need to plan the budget.",
+          "phonetic": "/ˈbʌdʒɪt/"
+        },
+        {
+          "english": "certificate",
+          "chinese": "證書",
+          "part_of_speech": "n.",
+          "example": "I got a certificate.",
+          "phonetic": "/sərˈtɪfɪkɪt/"
+        },
+        {
+          "english": "deadline",
+          "chinese": "截止日期",
+          "part_of_speech": "n.",
+          "example": "The deadline is Friday.",
+          "phonetic": "/ˈdɛdˌlaɪn/"
+        },
+        {
+          "english": "equipment",
+          "chinese": "設備",
+          "part_of_speech": "n.",
+          "example": "Check the equipment.",
+          "phonetic": "/ɪˈkwɪpmənt/"
+        },
+        {
+          "english": "feedback",
+          "chinese": "回饋",
+          "part_of_speech": "n.",
+          "example": "We value your feedback.",
+          "phonetic": "/ˈfiːdˌbæk/"
+        },
+        {
+          "english": "guarantee",
+          "chinese": "保證",
+          "part_of_speech": "n./v.",
+          "example": "We guarantee quality.",
+          "phonetic": "/ˌɡærənˈtiː/"
+        },
+        {
+          "english": "headquarter",
+          "chinese": "總部",
+          "part_of_speech": "n.",
+          "example": "The headquarter is in Taipei.",
+          "phonetic": "/ˈhɛdˌkwɔːrtər/"
+        },
+        {
+          "english": "industry",
+          "chinese": "產業；工業",
+          "part_of_speech": "n.",
+          "example": "The tech industry is booming.",
+          "phonetic": "/ˈɪndəstri/"
+        },
+        {
+          "english": "invoice",
+          "chinese": "發票；帳單",
+          "part_of_speech": "n.",
+          "example": "Please send the invoice.",
+          "phonetic": "/ˈɪnvɔɪs/"
+        },
+        {
+          "english": "logistics",
+          "chinese": "物流",
+          "part_of_speech": "n.",
+          "example": "The logistics team handles shipping.",
+          "phonetic": "/ləˈdʒɪstɪks/"
+        },
+        {
+          "english": "manufacture",
+          "chinese": "製造",
+          "part_of_speech": "v./n.",
+          "example": "We manufacture electronics.",
+          "phonetic": "/ˌmænjʊˈfæktʃər/"
+        },
+        {
+          "english": "negotiate",
+          "chinese": "談判；協商",
+          "part_of_speech": "v.",
+          "example": "We negotiate the contract.",
+          "phonetic": "/nɪˈɡoʊʃiˌeɪt/"
+        },
+        {
+          "english": "opportunity",
+          "chinese": "機會",
+          "part_of_speech": "n.",
+          "example": "This is a great opportunity.",
+          "phonetic": "/ˌɑːpərˈtuːnɪti/"
+        },
+        {
+          "english": "procedure",
+          "chinese": "程序；步驟",
+          "part_of_speech": "n.",
+          "example": "Follow the safety procedure.",
+          "phonetic": "/prəˈsiːdʒər/"
+        },
+        {
+          "english": "quality",
+          "chinese": "品質",
+          "part_of_speech": "n.",
+          "example": "Quality is our priority.",
+          "phonetic": "/ˈkwɑːlɪti/"
+        },
+        {
+          "english": "resume",
+          "chinese": "履歷",
+          "part_of_speech": "n.",
+          "example": "Update your resume.",
+          "phonetic": "/ˈrɛzʊˌmeɪ/"
+        },
+        {
+          "english": "schedule",
+          "chinese": "時間表；排程",
+          "part_of_speech": "n./v.",
+          "example": "Check the schedule.",
+          "phonetic": "/ˈskɛdʒuːl/"
+        },
+        {
+          "english": "transaction",
+          "chinese": "交易",
+          "part_of_speech": "n.",
+          "example": "The transaction was completed.",
+          "phonetic": "/trænˈzækʃən/"
+        },
+        {
+          "english": "warehouse",
+          "chinese": "倉庫",
+          "part_of_speech": "n.",
+          "example": "Goods are stored in the warehouse.",
+          "phonetic": "/ˈwɛrˌhaʊs/"
+        }
+      ]
+    }
+  ]
+}
