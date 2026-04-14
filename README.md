@@ -1,7 +1,21 @@
-# SRS Vocab — 基於 SM-2 間隔重複演算法之跨平台英文單字學習系統
+<div align="center">
 
-> 雲林科技大學 資訊管理系 · 114-2 學年度 · 演算法期末專題
-> 作者：張哲維 · B11223020
+<img src="icon.png" alt="SRS Vocab Icon" width="180" />
+
+# SRS Vocab
+
+### 基於 SM-2 間隔重複演算法之跨平台英文單字學習系統
+
+[![Platform](https://img.shields.io/badge/platform-macOS%20%7C%20Windows%20%7C%20Android-A78BFA?style=flat-square)](../../releases)
+[![Python](https://img.shields.io/badge/python-3.11-5EEAD4?style=flat-square)](https://www.python.org)
+[![Framework](https://img.shields.io/badge/framework-Flet%200.83-FB923C?style=flat-square)](https://flet.dev)
+
+*雲林科技大學 資訊管理系 · 114-2 學年度 · 演算法期末專題*
+*作者：張哲維 · B11223020*
+
+</div>
+
+---
 
 ## 📖 專案簡介
 
@@ -59,7 +73,7 @@
 
 ```bash
 # 1. clone 並切換到目標平台
-git clone <repo-url>
+git clone git@github.com:WENOTA9/srs-vocab.git
 cd srs-vocab
 git checkout macos        # 或 windows / android
 
