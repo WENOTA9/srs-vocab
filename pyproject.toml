@@ -1,0 +1,13 @@
+[project]
+name = "srs-vocab"
+version = "1.0.0"
+description = "SRS 英文單字學習系統"
+requires-python = ">=3.10"
+dependencies = [
+    "flet>=0.80.0",
+    "matplotlib>=3.8.0",
+]
+
+[tool.flet]
+org = "com.srs"
+product = "SRS Vocab"
