@@ -1,0 +1,3 @@
+flet>=0.83
+pymupdf>=1.23
+matplotlib>=3.7
